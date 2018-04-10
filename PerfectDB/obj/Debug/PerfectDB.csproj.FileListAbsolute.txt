@@ -1,0 +1,15 @@
+C:\My\Repos\PerfectDB\PerfectDB\bin\Debug\PerfectDB.exe.config
+C:\My\Repos\PerfectDB\PerfectDB\bin\Debug\PerfectDB.exe
+C:\My\Repos\PerfectDB\PerfectDB\bin\Debug\PerfectDB.pdb
+C:\My\Repos\PerfectDB\PerfectDB\obj\Debug\PerfectDB.csprojResolveAssemblyReference.cache
+C:\My\Repos\PerfectDB\PerfectDB\obj\Debug\View\MainWindow.g.cs
+C:\My\Repos\PerfectDB\PerfectDB\obj\Debug\App.g.cs
+C:\My\Repos\PerfectDB\PerfectDB\obj\Debug\PerfectDB_MarkupCompile.cache
+C:\My\Repos\PerfectDB\PerfectDB\obj\Debug\PerfectDB_MarkupCompile.lref
+C:\My\Repos\PerfectDB\PerfectDB\obj\Debug\View\MainWindow.baml
+C:\My\Repos\PerfectDB\PerfectDB\obj\Debug\PerfectDB.g.resources
+C:\My\Repos\PerfectDB\PerfectDB\obj\Debug\PerfectDB.Properties.Resources.resources
+C:\My\Repos\PerfectDB\PerfectDB\obj\Debug\PerfectDB.csproj.GenerateResource.Cache
+C:\My\Repos\PerfectDB\PerfectDB\obj\Debug\PerfectDB.csproj.CoreCompileInputs.cache
+C:\My\Repos\PerfectDB\PerfectDB\obj\Debug\PerfectDB.exe
+C:\My\Repos\PerfectDB\PerfectDB\obj\Debug\PerfectDB.pdb
